@@ -1,0 +1,156 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق القرآن الكريم",
+  "@appTitle": {
+    "description": "عنوان التطبيق"
+  },
+  
+  "home": "الرئيسية",
+  "quran": "القرآن الكريم",
+  "hadith": "الحديث",
+  "azkar": "الأذكار",
+  "qibla": "القبلة",
+  "radio": "الراديو",
+  "audio": "الصوتيات",
+  "calendar": "التقويم",
+  "mushaf": "المصحف",
+  "settings": "الإعدادات",
+  "tasbih": "التسبيح",
+  "allahNames": "أسماء الله الحسنى",
+  "notifications": "الإشعارات",
+  "search": "البحث",
+  "bookmarks": "المفضلات",
+  "prayerTimes": "أوقات الصلاة",
+  "statistics": "الإحصائيات",
+  "tafsir": "التفسير",
+  
+  "darkMode": "الوضع الليلي",
+  "language": "اللغة",
+  "fontSize": "حجم الخط",
+  
+  "play": "تشغيل",
+  "pause": "إيقاف مؤقت",
+  "stop": "إيقاف",
+  "share": "مشاركة",
+  "delete": "حذف",
+  "edit": "تعديل",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "ok": "موافق",
+  "yes": "نعم",
+  "no": "لا",
+  
+  "error": "خطأ",
+  "success": "نجح",
+  "warning": "تحذير",
+  "info": "معلومة",
+  
+  "loading": "جاري التحميل...",
+  "noData": "لا توجد بيانات",
+  "noInternet": "لا يوجد اتصال بالإنترنت",
+  "tryAgain": "حاول مرة أخرى",
+  "retry": "إعادة المحاولة",
+  
+  "surah": "سورة",
+  "verse": "آية",
+  "juz": "جزء",
+  "page": "صفحة",
+  
+  "searchInQuran": "البحث في القرآن الكريم",
+  "searchPlaceholder": "ابحث في القرآن...",
+  "searchResults": "نتائج البحث",
+  "noResults": "لا توجد نتائج",
+  "resultsFound": "{count} نتيجة",
+  "@resultsFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "addBookmark": "إضافة إشارة مرجعية",
+  "removeBookmark": "إزالة الإشارة المرجعية",
+  "bookmarkAdded": "تمت إضافة الإشارة المرجعية",
+  "bookmarkRemoved": "تمت إزالة الإشارة المرجعية",
+  "noBookmarks": "لا توجد إشارات مرجعية",
+  "bookmarkNote": "ملاحظة",
+  
+  "totalReadingTime": "إجمالي وقت القراءة",
+  "totalPagesRead": "إجمالي الصفحات المقروءة",
+  "totalVersesRead": "إجمالي الآيات المقروءة",
+  "readingStreak": "سلسلة القراءة",
+  "days": "أيام",
+  
+  "fajr": "الفجر",
+  "dhuhr": "الظهر",
+  "asr": "العصر",
+  "maghrib": "المغرب",
+  "isha": "العشاء",
+  
+  "meccan": "مكية",
+  "medinan": "مدنية",
+  
+  "filter": "فلتر",
+  "filters": "الفلاتر",
+  "applyFilters": "تطبيق الفلاتر",
+  "resetFilters": "إعادة تعيين الفلاتر",
+  "allQuran": "كل القرآن",
+  "meccanSurahs": "السور المكية",
+  "medinanSurahs": "السور المدنية",
+  
+  "shareVerse": "مشاركة الآية",
+  "shareAsText": "مشاركة كنص",
+  "shareAsImage": "مشاركة كصورة",
+  
+  "aboutApp": "عن التطبيق",
+  "version": "الإصدار",
+  "contactUs": "اتصل بنا",
+  "rateApp": "قيم التطبيق",
+  
+  "selectLanguage": "اختر اللغة",
+  "arabic": "العربية",
+  "english": "English",
+  "french": "Français",
+  "urdu": "اردو",
+  
+  "islamicApp": "تطبيق إسلامي",
+  "lightMode": "الوضع النهاري",
+  "darkModeLabel": "الوضع الليلي",
+  
+  "hadithLibrary": "مكتبة الحديث",
+  "audioLibrary": "صوتيات",
+  "azkarPrayers": "الأذكار والأدعية",
+  "hijriCalendar": "التقويم الهجري",
+  "myStatistics": "إحصائياتي",
+  
+  "primaryColor": "اللون الرئيسي",
+  "fontType": "نوع الخط",
+  "sampleText": "نص تجريبي",
+  
+  "cloudSync": "المزامنة السحابية",
+  "signIn": "تسجيل الدخول",
+  "signOut": "تسجيل الخروج",
+  "signInWithGoogle": "تسجيل الدخول بحساب Google",
+  "account": "الحساب",
+  "myAccount": "حسابي",
+  "notSignedIn": "غير مسجل الدخول",
+  "signedInAs": "مسجل الدخول كـ",
+  "syncData": "مزامنة البيانات",
+  "syncNow": "مزامنة الآن",
+  "lastSync": "آخر مزامنة",
+  "neverSynced": "لم تتم المزامنة بعد",
+  "syncInProgress": "جاري المزامنة...",
+  "syncSuccess": "تمت المزامنة بنجاح",
+  "syncError": "خطأ في المزامنة",
+  "autoSync": "المزامنة التلقائية",
+  "syncSettings": "إعدادات المزامنة",
+  "syncBookmarks": "مزامنة المفضلات",
+  "syncStatistics": "مزامنة الإحصائيات",
+  "syncPreferences": "مزامنة الإعدادات",
+  "dataWillBeSynced": "سيتم مزامنة بياناتك عبر جميع أجهزتك",
+  "signInRequired": "يجب تسجيل الدخول للمزامنة",
+  "signInToContinue": "سجّل الدخول للمتابعة",
+  "confirmSignOut": "هل أنت متأكد من تسجيل الخروج؟",
+  "signOutWarning": "سيتم إيقاف المزامنة السحابية"
+}
